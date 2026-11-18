@@ -10,7 +10,7 @@ A custom-designed flight controller board built around the **STM32F407VGT6** mic
 ![PCB 3D Render](flight.png)
 
 ### Schematic
-![Schematic](Flightcontroller_pages-to-jpg-0001.jpg)
+![Schematic](Flightcontroller.jpg.jpeg)
 
 ---
 
